@@ -1,0 +1,1 @@
+run ALFOD.m，environment：matlab 2016a
